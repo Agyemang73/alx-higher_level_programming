@@ -6,5 +6,5 @@ if number > 0:
 elif number == 0:
     str = "is zero"
 else:
-    str = "is negeative"
+    str = "is negative"
 print("{:d} {:s}".format(number, str))
