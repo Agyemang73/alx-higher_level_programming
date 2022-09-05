@@ -1,2 +1,3 @@
-#Python Programming
-#JavaScript Programming
+Python Programming
+
+JavaScript Programming
